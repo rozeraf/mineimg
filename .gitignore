@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+1.png
+photo.png
+photo_blockified.png
+
 # C extensions
 *.so
 
